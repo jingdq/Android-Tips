@@ -10,7 +10,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。
 
-为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
+为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦
+，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
 
 **如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我相信这份列表，将会成为你的首选。**
 
@@ -50,6 +51,8 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
   * [X](#x)
   * [Y](#y)
   * [Z](#z)
+  * [优质文章](#优质文章)
+  * [优秀博客](#优秀博客)
   * [Others](#others)
   * [Contributors](#contributors)
   * [Contact Me](#contact-me)
@@ -567,7 +570,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ---
 
-### No category
+### 优质文章
 
 1. [THE DEX 64K LIMIT IS NOT A PROBLEM ANYMORE, ALMOST](http://www.mutualmobile.com/posts/dex-64k-limit-not-problem-anymore-almost)
 2. [Android 4.4从图库选择图片,获取图片路径并裁剪](http://blog.csdn.net/tempersitu/article/details/20557383)
@@ -584,6 +587,25 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 13. [Error retrieving parent for item: No resource found that matches the given name after upgrading to AppCompat v23](http://stackoverflow.com/questions/32075498/error-retrieving-parent-for-item-no-resource-found-that-matches-the-given-name)
 
 ---
+
+### 优秀博客
+
+1.  [阿里技术沙龙](http://club.alibabatech.org/)
+2.  [美团技术博客](http://tech.meituan.com/)
+3.  [IBM developerworks](http://www.ibm.com/developerworks/cn/java/)
+4.  [腾讯 AlloyTeam](http://www.alloyteam.com/)
+
+
+
+
+
+---
+
+
+
+
+
+
 
 ## Contributors
 
